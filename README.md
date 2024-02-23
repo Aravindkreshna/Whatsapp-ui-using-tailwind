@@ -1,2 +1,4 @@
 # Whatsapp-ui-using-tailwind
-Getting stared with TailwindCSS , Whatsapp UI using Tailwind CSS 
+Getting started with TailwindCSS, Whatsapp UI using Tailwind CSS 
+
+Demo Link For Whatsapp UI: https://aravindkreshna.github.io/Whatsapp-ui-using-tailwind/
